@@ -4,4 +4,4 @@ WhereToGO Package is a simple solution for web server. It used to remember the l
 
 ## License
 
-TimeHolder is released under the [WTFPL License](http://www.wtfpl.net/txt/copying).
+WhereToGo is released under the [WTFPL License](http://www.wtfpl.net/txt/copying).
